@@ -1,0 +1,110 @@
+body {
+  background-color: #cbf1f5;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+.header{
+  color: yellow;
+}
+
+#Display-Board {
+  text-align: center;
+}
+
+.players1 {
+  text-align: center;
+  padding: 10px;
+}
+
+.players2 {
+  text-align: center;
+  padding: 10px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-Images {
+  display: flex;
+  justify-content: space-around;
+}
+
+.player-comp-img {
+  width: 200px;
+}
+
+.hand-img {
+  width: 100px;
+}
+
+.images-choice-1 {
+  text-align: center;
+  padding: 15px;
+}
+.images-choice-1:hover {
+  cursor: pointer;
+  background-color: #46dbec;
+  border-radius: 15px;
+}
+
+.images-choice-2 {
+  text-align: center;
+  padding: 15px;
+}
+.images-choice-2:hover {
+  cursor: pointer;
+  background-color: #46dbec;
+  border-radius: 15px;
+}
+
+.images-choice-3 {
+  text-align: center;
+  padding: 15px;
+}
+.images-choice-3:hover {
+  cursor: pointer;
+  background-color: #46dbec;
+  border-radius: 15px;
+}
+
+.button-1 {
+  font-size: 20px;
+  background-color: #46dbec;
+  text-align: center;
+  padding: 2px;
+  border: solid;
+  border-color: #1f9ba9;
+  border-radius: 10px;
+}
+.button-1:hover {
+  background-color: #1f9ba9;
+  cursor: pointer;
+}
+
+.button-2 {
+  font-size: 20px;
+  background-color: #46dbec;
+  text-align: center;
+  padding: 2px;
+  border: solid;
+  border-color: #1f9ba9;
+  border-radius: 10px;
+}
+.button-2:hover {
+  background-color: #1f9ba9;
+  cursor: pointer;
+}
+
+.win {
+  background-color: #109faf;
+}
